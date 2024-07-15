@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://nopetrd.github.io/sitemap/sitemap.txt
